@@ -1,6 +1,6 @@
 # Tableau Homework - Citi Bike Analytics
 
-# End result for this Assignment can be found here: 
+# End result can be found here: 
 
 # https://public.tableau.com/app/profile/kevin.mcconchie/viz/Tableu-Challenge_16638993844500/Story1
 
