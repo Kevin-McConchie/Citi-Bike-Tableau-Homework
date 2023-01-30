@@ -1,4 +1,4 @@
-# Tableau Homework - Citi Bike Analytics
+# Tableau - Citi Bike Analytics
 
 # End result can be found here: 
 
